@@ -199,5 +199,8 @@ $conn->close();
 
 # Database Integration:
 ![amg1](https://github.com/amjadalialharbi/robot-control/assets/174282482/860c33fe-8055-4407-a45d-a63de2796b77)
+# View the latest direction:
+![amg3](https://github.com/amjadalialharbi/robot-control/assets/174282482/9ba36e29-6ada-4c4d-aef6-c0957a9cbb87)
+
 
 
