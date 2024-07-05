@@ -195,4 +195,5 @@ $conn->close();
 </html>
 ```
 # Control interface:
+![amg2](https://github.com/amjadalialharbi/robot-control/assets/174282482/0fe9490b-a2c2-4c0a-a56f-78485e7f1cd8)
 
