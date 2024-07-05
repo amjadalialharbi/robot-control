@@ -197,3 +197,7 @@ $conn->close();
 # Control interface:
 ![amg2](https://github.com/amjadalialharbi/robot-control/assets/174282482/0fe9490b-a2c2-4c0a-a56f-78485e7f1cd8)
 
+# Database Integration:
+![amg1](https://github.com/amjadalialharbi/robot-control/assets/174282482/860c33fe-8055-4407-a45d-a63de2796b77)
+
+
